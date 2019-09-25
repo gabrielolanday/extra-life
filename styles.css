@@ -1,0 +1,31 @@
+body{
+  margin:0px;
+  border-top: 40px solid #262626;
+}
+.navbar{
+  background-color: #262626;
+  display: flex;
+  justify-content: space-around;
+}
+.navbuttons{
+  background-color: #262626;
+  border: none;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+.navbuttons:hover{
+  background-color: #27C7F2;
+}
+.banner{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
